@@ -20,5 +20,3 @@ Linux:
     Type "dadjoke" in your terminal session and enjoy!
 
 Powered by icanhazdadjoke.com API
-
-v1.1.0
