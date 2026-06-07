@@ -1,0 +1,9 @@
+Architecture: amd64
+Depends: curl
+Description: Prints a random dad joke
+Maintainer: seixasben@gmail.com
+Package: dadjoke
+Priority: optional
+Section: devel
+Version: 1.1.0
+Installed-Size: 13

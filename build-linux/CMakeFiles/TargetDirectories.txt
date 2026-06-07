@@ -1,0 +1,9 @@
+/home/boogabooga/dadjoke/build/CMakeFiles/dadjoke.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/package.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/package_source.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/edit_cache.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/rebuild_cache.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/list_install_components.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/install.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/install/local.dir
+/home/boogabooga/dadjoke/build/CMakeFiles/install/strip.dir

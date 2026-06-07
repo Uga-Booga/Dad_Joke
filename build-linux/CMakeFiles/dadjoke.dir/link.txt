@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/dadjoke.dir/link.d CMakeFiles/dadjoke.dir/src/main.cpp.o -o dadjoke

@@ -1,0 +1,19 @@
+setting SOURCE_DATE_EPOCH=1278201600
+Executing(%mkbuilddir): /bin/sh -e /var/tmp/rpm-tmp.AVwXaE
+Executing(%prep): /bin/sh -e /var/tmp/rpm-tmp.O2IXs2
+Executing(%install): /bin/sh -e /var/tmp/rpm-tmp.Sk9Umu
+Scanned 3 directories and 1 files,
+    processed 0 inodes,
+    0 modified (0 replaced + 0 rewritten),
+    0 unsupported format, 0 errors
+Scanned 2 directories and 1 files,
+    considered 1 files, read 0 files, linked 0 files, 0 errors
+    sum of sizes of linked files: 0 bytes
+Processing files: dadjoke-1.1.0-1.x86_64
+Provides: dadjoke = 1.1.0-1 dadjoke(x86-64) = 1.1.0-1
+Requires(rpmlib): rpmlib(CompressedFileNames) <= 3.0.4-1 rpmlib(FileDigests) <= 4.6.0-1 rpmlib(PayloadFilesHavePrefix) <= 4.0-1
+Requires: libc.so.6()(64bit) libc.so.6(GLIBC_2.2.5)(64bit) libc.so.6(GLIBC_2.34)(64bit) libgcc_s.so.1()(64bit) libm.so.6()(64bit) libstdc++.so.6()(64bit) libstdc++.so.6(GLIBCXX_3.4.32)(64bit) rtld(GNU_HASH)
+Checking for unpackaged file(s): /usr/lib/rpm/check-files /home/boogabooga/dadjoke/build/_CPack_Packages/Linux/RPM/dadjoke-1.1.0-Linux
+Wrote: /home/boogabooga/dadjoke/build/_CPack_Packages/Linux/RPM/RPMS/dadjoke-1.1.0-Linux.rpm
+Executing(%clean): /bin/sh -e /var/tmp/rpm-tmp.Aw2vou
+Executing(rmbuild): /bin/sh -e /var/tmp/rpm-tmp.Utqni4

@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/dadjoke.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/dadjoke.dir/objects.a @CMakeFiles/dadjoke.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -fstack-protector -lssp -static -static-libgcc -static-libstdc++ -Wl,--whole-archive CMakeFiles/dadjoke.dir/objects.a -Wl,--no-whole-archive -o dadjoke.exe -Wl,--out-implib,libdadjoke.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/dadjoke.dir/linkLibs.rsp

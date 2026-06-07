@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/boogabooga/dadjoke/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
